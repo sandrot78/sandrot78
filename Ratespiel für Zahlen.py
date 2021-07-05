@@ -1,5 +1,5 @@
 import random
-
+# Test für GitHub
 
 def zahlen_raten():
     durchgang = 1
